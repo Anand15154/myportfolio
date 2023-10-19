@@ -375,7 +375,7 @@ form .btn2{
     color: #f40707;
 }
 /*-----------cSs for small screen---------*/
-nav.fas {
+nav .fas {
     display: none;
 }
 @media only screen and (max-width:600px){
@@ -434,7 +434,7 @@ nav ul .fas{
 
 }
 .tab-links{
-    font-size: 60px;
+    font-size: 16px;
     margin-right: 20px;
 }
 .contact-left,.contact-right{
